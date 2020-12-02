@@ -11,7 +11,7 @@ from datetime import datetime
 from apscheduler.schedulers.blocking import BlockingScheduler
 
 caption ="Test post of Instagram Python Automation \n \n #Algeria"
-path = "C:\\Users\\Mohamed\\Desktop\\Insta\\images\\"
+path = "path to your images folder"
 
 print(path)
 
